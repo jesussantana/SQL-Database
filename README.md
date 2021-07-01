@@ -14,7 +14,7 @@
 
 - Exercise 1  
 
-- Create a simple relational database using MySQL (https://www.mysql.com/) and connect it to Python
+  - Create a simple relational database using MySQL (https://www.mysql.com/) and connect it to Python
 
 ### Level 2
 
