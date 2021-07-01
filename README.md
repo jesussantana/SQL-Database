@@ -1,5 +1,5 @@
 # [IT Academy - Data Science with Python](https://www.barcelonactiva.cat/es/itacademy)
-## [S18 T01: SQL Database](https://github.com/jesussantana/SQL-Database/blob/main/notebooks/S18_T01_SQL_Database.ipynb)
+## [S17 T02: SQL Database](https://github.com/jesussantana/SQL-Database/blob/main/notebooks/S17_T02_SQL_Database.ipynb)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
@@ -7,7 +7,7 @@
 
 ### Description
 
-Create a relational model and entity-relationship diagram.
+- Create database with MySQL.
 
 
 ### Level 1
